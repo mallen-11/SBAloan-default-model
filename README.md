@@ -10,7 +10,7 @@ The second .csv files is called `clean_data.csv`. This data set contains the dat
 
 ### Notebooks
 
-Our notebook shows all the code used to clean the data as well as some initial analysis to understand which columns we felt were worthy of further evaluation. We then identified the columns industry, bank, term, year, and loan amount as valuable in determining if a loan will default. We then dove deeper into each of these and create multiple graphs that help solidify our findings. We then made a logistic regression model, nearest neighbors model, and an XGBoost model. The XGBoost model performed the best at an accuracy of 80%. This included the fact that the precision of predicting the defaults was 90% as well. This performs extremely well.
+Our notebook shows all the code used to clean the data as well as some initial analysis to understand which columns we felt were worthy of further evaluation. We then identified the columns industry, bank, term, year, and loan amount as valuable in determining if a loan will default. We then dove deeper into each of these and create multiple graphs that help solidify our findings. We then made a logistic regression model, nearest neighbors model, and an XGBoost model. The XGBoost model performed the best at an accuracy of 90%. This included the fact that the precision of predicting the defaults was 90% as well. This performs extremely well.
 
 ### Article
 
