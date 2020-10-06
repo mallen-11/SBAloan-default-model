@@ -4,9 +4,10 @@ This repository contains all of the steps in the analysis SBA Loans. This includ
 
 ### Data
 
- The data folder contains two .csv files. The first one named `SBAnational.csv` contains data on every SBA loan taken from 1970-2014 in the United States. An SBA Loan is a loan for small businesses where the majority of the loan is guaranteed to be paid in case of default by the US governemnt. This data has 899,164 rows and 27 columns. 
+ The data folder contains a link to the original website containing the data. Named `SBAnational.csv` it contains data on every SBA loan taken from 1970-2014 in the United States. An SBA Loan is a loan for small businesses where the majority of the loan is guaranteed to be paid in case of default by the US governemnt. This data has 899,164 rows and 27 columns. 
+ 
+https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied
 
-The second .csv files is called `clean_data.csv`. This data set contains the data that was used for our analysis. This included dropping unwanted columns, making new columns, and dropping rows with missing values for our analysis.
 
 ### Notebooks
 
