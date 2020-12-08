@@ -1,5 +1,7 @@
 # Saving Your Credit Score: An Analysis of SBA Loans
 
+A article on this repo can be found at this link https://www.linkedin.com/pulse/saving-your-credit-score-analysis-small-business-loans-morgan-allen/?trackingId=%2BPUXbkl2QZu15i6bRcfSPQ%3D%3D.
+
 This repository contains all of the steps in the analysis SBA Loans. This includes a folder containing all the data, a notebook where all the data was cleaned and analyzed, an article, and a presentation. Below, I will go into what you can expect from each of these.
 
 ### Data
